@@ -1,0 +1,3 @@
+exec sql "create table account_info (account varchar(64), password varchar(64), username varchar(64), sex varchar(64), state varchar(64));"
+ip= 127.0.0.1,port = 55106 connected
+thread_0 start read 127.0.0.1:55106

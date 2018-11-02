@@ -1,0 +1,16 @@
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\siyintech.exe
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\siyintech.pdb
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.csprojAssemblyReference.cache
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_about.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_addFriend.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_detailInfo.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_main.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_login.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_message.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_serverInfo.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.Properties.Resources.resources
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.csproj.GenerateResource.cache
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.csproj.CoreCompileInputs.cache
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.exe
+C:\Users\leiyuan\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\siyintech.pdb
